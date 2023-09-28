@@ -1,0 +1,39 @@
+body {
+    background-color: #ffcccc; /* Romantic background color */
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #333; /* Default text color */
+}
+
+.romantic-container {
+    margin: 50px;
+    padding: 20px;
+    background-color: #fff; /* White container background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #ff3366; /* Romantic heading color */
+}
+
+.continue-button,
+.next-page-button {
+    background-color: #ff3366; /* Romantic button color */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.letter {
+    background: linear-gradient(to bottom, #ffccff, #ff99cc); /* Romantic gradient background */
+    padding: 20px;
+    margin-top: 20px;
+    color: black; /* Black color for text inside the letter */
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
